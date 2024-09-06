@@ -1,1 +1,7 @@
+title: Test
+
+description: This is my blog
+# 主题
 theme: jekyll-theme-time-machine
+
+markdown: kramdown
