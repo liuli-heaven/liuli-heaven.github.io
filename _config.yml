@@ -6,10 +6,9 @@ theme: jekyll-theme-time-machine
 
 markdown: kramdown
 
-footer-links:
+social:
   zhihu: https://www.zhihu.com/people/liu-li-xin-meng-mei-ru-xue
   email: 2424130136@qq.com
   github: liuli-heaven
   twitter: https://x.com/ruliDream
 
-footer-text: Copyright (c) 2024 liuli-heaven
